@@ -1,3 +1,4 @@
+
 <h1>Hi <img src="./assets/wave.gif" width="30px" height="30px">, I'm Phil</h1>
 
 <p>
@@ -24,8 +25,12 @@
     &nbsp;&nbsp;
 </p>
 
-- 📚 &nbsp;Full-stack developer
-- 💼 &nbsp;Currently working at MWC Voting Solutions
-- 🔭 &nbsp;Sideproject - sale & invoide automation app
-- 🌱 &nbsp;Learning Go and Vue.js
+- 💼 &nbsp;Full-stack developer
+-  🌱 &nbsp;Learning [Go](https://go.dev/) and [Vue.js](https://vuejs.org/)
+- 🔭 &nbsp;Currentry working on a invoice automation app
+
 - 🥅 &nbsp;2022 Goals: Master Go
+-  📚 &nbsp; <a href="https://www.gopl.io/">The Go Programming Language</a>  
+
+- 📚 &nbsp; <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882">Clean Code - Robert C. Martin</a>
+
