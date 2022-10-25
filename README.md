@@ -26,7 +26,7 @@
 </p>
 
 - 💼 &nbsp;Full-stack developer
--  🌱 &nbsp;Learning [Go](https://go.dev/) and [Vue.js](https://vuejs.org/)
+-  🌱 &nbsp;Focused on [Go](https://go.dev/) and [Vue.js](https://vuejs.org/)
 - 🔭 &nbsp;Currentry working on a invoice automation app
 
 - 🥅 &nbsp;2022 Goals: Master Go
