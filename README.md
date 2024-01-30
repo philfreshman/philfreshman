@@ -3,6 +3,12 @@
 I'm a fullstack developer, currently having a lot of fun with Vue and Nuxt.
 
 ![hackerman](https://i.giphy.com/ieBWQkIVEELhbizGAp.webp)
+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
 <!--
 **philfreshman/philfreshman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
