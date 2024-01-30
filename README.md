@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+
+I'm a fullstack developer, currently having a lot of fun with Vue and Nuxt.
 
 <!--
 **philfreshman/philfreshman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
